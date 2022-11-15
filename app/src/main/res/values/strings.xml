@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea_2_3</string>
+    <string name="name"> Carlos Wilberto Rodriguez Ruiz </string>
+    <string name="numC"> 201910020179 </string>
+    <string name="aFoto"> Tomar Foto </string>
+    <string name="tFoto"> Capturar </string>
+    <string name="vFoto"> Ver fotos </string>
+    <string name="vtDesc"> Descripcion </string>
+    <string name="btnSavetext"> Salvar </string>
+</resources>
